@@ -1,0 +1,5 @@
+/home/javad/Desktop/interview/gitHub/build/CMakeFiles/rebuild_cache.dir
+/home/javad/Desktop/interview/gitHub/build/CMakeFiles/edit_cache.dir
+/home/javad/Desktop/interview/gitHub/build/CMakeFiles/AMG.dir
+/home/javad/Desktop/interview/gitHub/build/problems/CMakeFiles/rebuild_cache.dir
+/home/javad/Desktop/interview/gitHub/build/problems/CMakeFiles/edit_cache.dir

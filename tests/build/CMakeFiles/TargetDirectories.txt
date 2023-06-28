@@ -1,0 +1,3 @@
+/home/javad/Desktop/Programming/Amg_Linear_Solver/tests/build/CMakeFiles/edit_cache.dir
+/home/javad/Desktop/Programming/Amg_Linear_Solver/tests/build/CMakeFiles/rebuild_cache.dir
+/home/javad/Desktop/Programming/Amg_Linear_Solver/tests/build/CMakeFiles/runTest.dir

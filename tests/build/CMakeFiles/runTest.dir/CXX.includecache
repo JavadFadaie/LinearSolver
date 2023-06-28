@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/Vector.cpp
+Vector.hpp
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/Vector.hpp
+cmath
+-
+
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/Vector.hpp
+vector
+-
+iostream
+-
+Vector.cpp
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/Vector.cpp
+
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/csrmatric.cpp
+csrmatric.hpp
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/csrmatric.hpp
+
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/csrmatric.hpp
+Vector.hpp
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/Vector.hpp
+csrmatric.cpp
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/csrmatric.cpp
+
+/home/javad/Desktop/Programming/Amg_Linear_Solver/tests/CSRMatricTest.cpp
+iostream
+-
+../Mat/csrmatric.hpp
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/csrmatric.hpp
+../Mat/Vector.hpp
+/home/javad/Desktop/Programming/Amg_Linear_Solver/Mat/Vector.hpp
+gtest/gtest.h
+-
+

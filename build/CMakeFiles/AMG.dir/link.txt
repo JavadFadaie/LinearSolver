@@ -1,0 +1,1 @@
+/usr/bin/c++   -fopenmp    CMakeFiles/AMG.dir/Driver.cpp.o  -o AMG 
